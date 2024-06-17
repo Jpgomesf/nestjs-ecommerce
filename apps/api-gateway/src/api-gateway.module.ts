@@ -7,4 +7,4 @@ import { ApiGatewayService } from './api-gateway.service';
   controllers: [ApiGatewayController],
   providers: [ApiGatewayService],
 })
-export class ApiGatewayModule {}
+export class ApiGatewayModule { }
